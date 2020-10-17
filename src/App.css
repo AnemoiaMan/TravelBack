@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+ul#topnav{
+background-color: #B76C3B;
+font-size: 30px;
+color: black;
+font-family: Lucida Handwriting;
+margin-top: 0px;
+margin-bottom: -80px;
+position: relative;
+top:0px;
+display: block;
+width: 100px;
+position: relative;
+
+
+
+}
+
+li{
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.Paintings{ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-bottom: 0px;
+  margin-bottom: 10px;
+}
+
+p{
+   font-weight: bold;
+   font-family: Lucida Handwriting;
+   font-size: 30px;
+   padding-bottom: 50px;
+}
+
+#Passage{
+  font-size: 24px;
+  font-weight: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  overflow-wrap: normal;
+  text-align: left;
+  
+}
+
+h1, h2{
+  font-family: Lucida Handwriting;
+  text-align: left;
+}
+
+#author{
+  font-size:20px;
+  font-family: Lucida Handwriting;
+  font-weight: bold;
+  padding-bottom: 40px;
+
+}
+
+a:link{
+  color:black;
+  text-decoration: inherit;
+ }
+ 
+ a:visited{
+ color:black;
+ text-decoration: none;
+ }
+ 
+ a:hover{
+     background-color:#DD9D73;
+     
+ }
+ 
+
+
+
