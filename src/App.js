@@ -68,13 +68,13 @@ class App extends React.Component{
       </ul>
       <body>
         <div className="Paintings">
-        <li><Link to="/Interactions"><img src={Interactions}/><p>Meeting the Magnificient</p></Link></li>
+        <li><Link to="/Interactions"><img src={Interactions} alt="Image of Men Talking"/><p>Meeting the Magnificient</p></Link></li>
         <Route path='/Interactions' component={Interaction}/>
 
-        <li><Link to="/Surprises"><img src={Old}/><p>Surprises</p></Link></li>
+        <li><Link to="/Surprises"><img src={Old} alt="Image of a Beautiful Valley"/><p>Surprises</p></Link></li>
         <Route path='/Surprises' component={Surprise}/>
         
-        <li><Link to="/Dangerous"><img src={Danger}/> <p>Dangers</p></Link></li>
+        <li><Link to="/Dangerous"><img src={Danger} alt="Image of A Man in a Rowboat"/> <p>Dangers</p></Link></li>
         <Route path='/Dangerous' component={Dangerous}/>
         </div>
       </body>
