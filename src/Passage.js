@@ -34,7 +34,7 @@ after his death. When my friend had finished reading the
 newspapers, they entered into conversation, in which Paine 
 declared decidedly, that there would be no peace. " The 
 war," he observed, " must inevitably go on till the go- 
-vernment of England fell ; for it was radically and 
+vernment of England fell; for it was radically and 
 systematically wrong, and altogether incompatible with the 
 of society." I reminded him, that there was now a 
 whig administration in Britain, who would institute a reform 
@@ -42,7 +42,7 @@ of abuses, cause the constitution to be acted on in its purity,
 and probably repair all the mischief that had been done by the
 Tory administrations. He shook his head, and said that he knew 
 the Englishgovernment well, and was convinced that no man, or set 
-of men, would ever be able to reform it ; the system was wrong, 
+of men, would ever be able to reform it; the system was wrong, 
 and it never would be set right without, a revolution, 
 which was as certain as fate, and at no great distance in 
 time. 
@@ -68,7 +68,7 @@ propagate the report, that he is habitually intemperate ;
 but I was informed by those who know him well, that it 
 is not correct. When he meets with a person of his own 
 way of thinking, he will frequently indulge himself to a 
-late hour over a glass of toddy ; but seldom carries it to 
+late hour over a glass of toddy; but seldom carries it to 
 excess. His income is but small; but he is in independent 
 circumstances, having a tract of land, for which he could 
 obtain ten thousand dollars. He is pleasant in conversation, 
@@ -120,15 +120,15 @@ the mountains on James' river, not far from where he lived;
 and which country was never known to experience any 
 cases of the kind before. As this appeared singular, I 
 inquired whether there was any way of accounting for it. 
-He replied, that the way he accounted for it was this : 
+He replied, that the way he accounted for it was this: 
 "In ordinary seasons, there is a sufficiency of water to keep 
-the rivers in a state of circulation, and no more ; but this 
+the rivers in a state of circulation, and no more; but this 
 season there has been a long and very severe drought, 
 which, in many places, lias dried them up. The water 
 lias stagnated in pools, and sends out a putrid effluvia to 
-some distance ; which, being lighter than the atmosphere, 
+some distance; which, being lighter than the atmosphere, 
 ascends even some little way up the mountains, and reaches 
-,thc abodes of those who thought themselves heretofore 
+,the abodes of those who thought themselves heretofore 
 free from attack.”
 
 I was struck with the force of this remark, and applied 
@@ -143,17 +143,17 @@ president remarked, that it was a case exactly in point. He
 said he had frequently observed from his windows, in the 
 morning, the vapour to rise, and it seemed to have suffi- 
 cient buoyancy to carry it to the top of the hill, and no 
-further ; there it settled, and the inhabitants, coming out 
+further; there it settled, and the inhabitants, coming out 
 of their warm rooms, breathed this cold contaminated va- 
 ipour, which brought on agues and other complaints. He 
 said he had frequently pointed out this to the people, and 
 urged them to drain the swamp, but it was still neglected, 
 although they had, besides suffering in their health, proba- 
 bly expended more in doctor's bills than it would have 
-cost. " But, indeed," he continued, " mankind are exceedingly 
+cost. "But, indeed," he continued, " mankind are exceedingly 
 slow in adopting resolutions to prevent disease, and 
 it is very difficult to convince them where they origi- 
-nate ; particularly when the reasoning applied is the re- 
+nate; particularly when the reasoning applied is the re- 
 sult of philosophical deduction."
 
 The transition from this subject to that of the yellow 
@@ -171,7 +171,7 @@ rated in the country or imported. A case had come un-
 der his observation where it was imported. A vessel ar- 
 rived at Norfolk, and the air in t her hold was so pestilen- 
 tial, that every person who went into it was affected, and 
-some of them died ; but, on the discovery being made, 
+some of them died; but, on the discovery being made, 
 the vessel was purified, and the fever did not spread. This 
 was a local circumstance, he observed, and there may be 
 many others, which are pernicious as far as they go, and 
@@ -194,7 +194,7 @@ country was so extensive, that it would necessarily be a
 considerable time before good roads could be made in all 
 directions, but as it was a most important subject, it 
 would be attended to as fast as circumstances would per- 
-mit ; and the road to Baltimore, being the great thorough- 
+mit; and the road to Baltimore, being the great thorough- 
 fare to the northern states, would probably be one of the 
 first that would undergo a thorough repair. He then informed 
 me, that both this subject and that of internal na- 
@@ -209,20 +209,20 @@ another to connect the eastern with the western waters.
 
 I remarked that these would be most important im- 
 provements, and would greatly facilitate internal inter- 
-course ; and as to manufactures, I presumed it would long 
+course; and as to manufactures, I presumed it would long 
 continue to be the policy of the country to import them. 
 He replied, that this, like other branches, would of course 
 find its level, and would depend upon the genius of the 
-people ; but it was astonishing, the progress that had been 
+people; but it was astonishing, the progress that had been 
 made in manufactures of late years. It would hardly be 
 believed, he said, by strangers, but he had it on the best 
 authority, that the manufactures of Philadelphia were 
 greater in value annually, than were those of Birmingham 
-20 years ago ; and he had no doubt but that manufactures, 
+20 years ago; and he had no doubt but that manufactures, 
 of articles of the first necessity, would increase until they 
 became quite general through the country. 
 
-As the non- importation act was then in dependence, I 
+As the non-importation act was then in dependence, I 
 was naturally anxious to ascertain, whether matters were 
 likely to be adjusted with Britain, and, as modestly as 
 possible, endeavoured to turn the conversation that way. I 
@@ -250,6 +250,206 @@ Eaton, and I took my leave, highly pleased with the affa-
 bility, intelligence, and good sense, of the President of 
 America.`
 
+let newHampshire= new Passage('John Melish', 'Travels in America', '1806', 'New Hampshire');
+
+newHampshire.passage=`
+The government is founded upon a bill of rights, declar- 
+ing that all men are born equally free and independent; 
+and that all government originates from the people : that 
+every man has a right to worship God according to the 
+dictates of his conscience: that all elections ought to 
+be free, and that every inhabitant of the state, having the 
+proper qualifications, lias an equal right to elect, and be 
+elected, into office: that there shall be no hereditary rights, 
+and the press shall be free. 
+
+The exercise of the government is vested in a legisla- 
+ture, consisting of a senate and house of representatives; a 
+governor and council to execute the laws ; and a judiciary 
+to promote justice between man and man. The senate 
+consists of 13 members, chosen annually by the people; 
+the members must be possessed of a freehold estate of 
+£. 200. The representatives are apportioned according to 
+the population, every town which has 150 rateable polls 
+being entitled to one representative; having 450, they are 
+entitled to two. They are also elected annually, and must 
+be possessed of a freehold of £.100. The governor is, in 
+like manner, elected annually, and must be possessed of a 
+freehold of £. 500. There are five counsellors, who are 
+chosen annually, who must be possessed of freeholds 
+of £. 300. 
+
+The following extract from the constitution ought to 
+be generally known. 
+
+"Knowledge and learning, generally diffused through a 
+community, being essential to the preservation of a free 
+government; and spreading the opportunities and advan- 
+tages of education through the various parts of the coun- 
+try, being highly conducive to promote this end ; it shall 
+be the duty of the legislators and magistrates, in all future 
+periods of this government, to cherish the interest of litera- 
+ture and the sciences, and all seminaries and public schools, 
+to encourage private and public institutions, rewards and 
+immunities for the promotion of agriculture, arts, sciences, 
+commerce, trade, manufactures, and natural history of the 
+country; to countenance and inculcate the principles of 
+humanity and general benevolence ; public and private 
+charity, industry and economy, honesty and punctuality, 
+sincerity, sobriety, and all social affections, and generous 
+sentiments, among the people.”`
+
+let massachusetts = new Passage('John Melish', 'Travels in America', '1806','Massachusetts');
+
+massachusetts.passage=`
+The state government is vested in a senate and house 
+of representatives, styled the General Court ; a governor, 
+lieutenant-governor, and council. The senators are 40 in 
+number, and are elected annually in districts; and the 
+voters must be possessed of a freehold estate of £.3, or 
+any estate of the value of £.60. 
+
+The representatives are elected annually, in townships: 
+every corporate town containing 150 rateable polls elect 1, 
+those containing 375 elect 2, those containing 600 elect 3, 
+and so on, making 225 the number for every additional 
+representative. The electors must be possessed of the same 
+property as for senators. 
+
+The governor is styled his excellency, and must be 
+possessed of a freehold of £. 1000. He is elected annually 
+by those qualified to vote for senators and representatives. 
+The lieutenant-governor is styled his honour, and must 
+have the same qualifications, and be elected in the same 
+manner, as the governor. The council consists of 9 per- 
+sons, chosen from the senators by joint ballot of the se- 
+nators and representatives.`
+
+
+let pennsylvania= new Passage('John Melish', 'Travels in America', '1806', 'Pennsylvania');
+
+pennsylvania.passage=`
+The civil government is vested in a legislature, consist- 
+ing of a senate and house of representatives. The senators 
+are chosen for four years, and the representatives annually, 
+by the people: The executive authority is vested in a 
+governor, who is also elected by the people, and holds 
+his office for three years. 
+
+The constitution declares, "That all men are born equally free 
+and independent;— that all power is inherent in the people; 
+that all men have a natural and indefeasible right to worship 
+God according to the dictates of their own consciences, and no man 
+can of right be compelled to attend, erect, or support any place 
+of worship, or to maintain any ministry against his consent;—that 
+no human authority can, in anv case whatever, controul or interfere 
+with the rights of conscience, and that no preference shall ever 
+be given, by law, to any religious establishments, or modes of worship;
+—that elections shall be free and equal;—that trial by jury shall 
+be inviolate; that no law shall ever be made to restrain 
+the liberty of the press; that the people shall be secure 
+against all unwarrantable searches, and excessive bail shall 
+not be required;—that the legislature shall provide by law 
+for the establishment of schools throughout the state, in 
+such a manner as the poor may be taught gratis;—the arts 
+and sciences shall be promoted.”`
+
+let newYork= new Passage('John Melish', 'Travels in America', '1806', 'New York');
+
+newYork.passage=`
+The government of the state is vested in a governor, 
+lieutenant-governor, senate, and house of representatives. 
+The governor and lieutenant-governor are elected for three 
+years; the senators for four; and the assemblymen are
+chosen annually. The necessary qualifications for the elec- 
+tors, are six months residence in the state previous to the 
+election; the possession of a freehold of £. 20 value, or to 
+have rented a tenement of the value of 40 shillings yearly; 
+and to have been rated on the polls, and actually paid 
+taxes to the state.`
+
+let delaware = new Passage('John Melish', 'Travels in America', '1806', 'Delaware');
+
+delaware.passage=`
+The constitution guarantees equal rights to all the citizens, 
+without regard to property or religious opinions. The 
+government is vested in a governor, a senate, and house of 
+representatives, which are elected by ballot, and "every 
+vhite freeman of the age of 21, Who has resided in the 
+tate two years next before the election, shall enjoy the 
+right of an elector. The sons of persons so qualified shall, 
+Dctwixt the ages of 2 land 22, be entitled to vote, though 
+hey have paid no taxes." `
+
+
+let maryland = new Passage('John Melish', 'Travels in America', '1806', 'Maryland');
+
+maryland.passage=`
+The civil government is vested in a governor, senate, 
+and house of delegates, all chosen annually. The qualification 
+to vote for delegates is a freehold of 50 acres of land, 
+or property to the value of . 30 currency. The principles of 
+government are similar to those of Pennsylvania.`
+
+let northCarolina = new Passage('John Melish', 'Travels in America', '1806', 'North Carolina');
+
+northCarolina.passage=`
+The legislative authority is vested in a senate and house 
+of commons, together styled the General Assembly, and 
+chosen annually. Senators must be possessed of 300 
+acres of land; representatives of 100. The electors of 
+senators must be possessed of 50 acres of land ; and of 
+representatives a freehold in some town. The executive 
+is vested in a governor, elected by the General Assembly, 
+and he is not eligible to serve more than three years in 
+six. He is assisted by a council of state, consisting of seven 
+persons, elected by the Assembly annually. The judiciary 
+consists of a supreme court, a court of equity, and a court 
+of admiralty. The judges are appointed by the Assembly.`
+
+let southCarolina = new Passage('John Melish', 'Travels in America', '1806', 'South Carolina');
+
+southCarolina.passage=`
+The civil government is, like that of the other states, 
+legislative, executive, and judiciary. The legislative 
+power is vested in a general assembly, consisting of a 
+senate and house of representatives. The senators are 
+chosen for four years, and one half vacate their seats
+every two years. They must be thirty-five years of age, and 
+possessed of a freehold estate of the value of 300 pounds 
+sterling, clear of debt; and the electors must be possessed 
+of 50 acres of land, or a town lot, or have paid a tax of 
+three shillings sterling. The .representatives must be 
+twenty-one years of age, and be possessed of a freehold 
+estate of 150 pounds, clear of debt; and the electors must 
+have the same qualifications as for senators. 
+
+The executive government is vested in a governor, chosen 
+for two years, by the legislature; and the qualifications 
+to fill that office are, that he be thirty years of age, and be 
+possessed of 1500 pounds sterling. 
+
+The judges of the superior courts, commissioners of the 
+treasury, secretary of state, and surveyor-general, are all 
+fleeted by the legislature.`
+
+let georgia= new Passage('John Melish', 'Travels in America', '1806', 'Georgia');
+
+georgia.passage=`
+The civil government is vested in an assembly, consisting 
+of a senate and house of representatives, a governor, 
+and a judiciary. 
+
+The assembly are elected annually, and all free white 
+persons, who are of age, and who have paid taxes, have a 
+vote. 
+
+The governor is appointed for two years, by the
+legislature. 
+
+The judges are elected by the legislature for three year.`
+
+//SURPRISES CATEGORY
 let surpriseZero=new Passage('John Melish', 'Travels in America', 'July 15, 1806', 'Augusta to Savannah, Georgia');
 
 surpriseZero.passage=`
@@ -295,7 +495,7 @@ convince me, that the American character was very indif-
 ferently understood in Britain ; and, indeed, very much 
 misrepresented. I was satisfied, from everything I saw 
 and heard, that there was no animosity against the British 
-people whatever ; and that the animosity against the British 
+people whatever; and that the animosity against the British 
 government was the consequence of what they conceive to 
 be a series of injuries long persevered in, and some of 
 them even justified on the score of privilege. 
@@ -324,12 +524,13 @@ the best guarantee for the continuance of the liberty and
 independence of the country. 
 
 It has been remarked, that this disposition may encou- 
-rage rudeness ; but I have not yet seen it. As the people 
+rage rudeness; but I have not yet seen it. As the people 
 will bend to no superiority, they really affect none ; and I 
 am impressed with the belief, that it is a stranger's own 
 fault, if he does not feel very happy among them.`
 
 
+//DANGER CATEGORY
 let dangerZero= new Passage('John Melish', 'Travels in America', 'July 4, 1806', 'Louisville, Georgia')
 
 dangerZero.passage = `
@@ -367,9 +568,9 @@ time to spare, I wished to apply it to the best advantage,
 and I Mas kindly assisted by my friend Dr. Powell. He 
 invited me to his house, and introduced me to Mrs. Powell, 
 a very sensible judicious lady, by whom I was treated 
-Mill) marked attention. 
+with marked attention. 
 
-The doetor and his lady gave me every information 
+The doctor and his lady gave me every information 
 tjtjat could be desired, and I was finally invited to take a 
 bed at their house, by which means I was relieved from 
 the bustle of a public tavern, and the still more disagree- 
@@ -415,7 +616,7 @@ bluff, when I was accosted by a friend, who told me my
 presence was very much wanted in Savannah. This gave 
 my mind a fresh direction. I armed myself with resolution, 
 
-"That column of true majesty in man ;" 
+"That column of true majesty in man;" 
 
 and determining to brave all difficulty and all danger, I 
 made the best of my way to the house. I found my friend 
@@ -424,11 +625,11 @@ me not. I looked in his face, but oh ! how altered. His
 eyes were sunk in his head, and his colour was quite yel- 
 low. I seized his hand, and it was quite emaciated. The 
 hand of death pressed heavy upon him, and all I could now 
-hope for, was to make myself understood in taking a sor- 
-rowful farewel. I mentioned my name, on which he rais- 
-ed his eyes ; he looked wistfully in my face ; he pressed 
-my hand with fervor, saying faintly, " Is it you?" and fell 
-back in his bed, and soon after expired ! 
+hope for, was to make myself understood in taking a 
+sorrowful farewell. I mentioned my name, on which he 
+raised his eyes; he looked wistfully in my face ; he 
+pressed my hand with fervor, saying faintly, "Is it you?" 
+and fell back in his bed, and soon after expired! 
 
 Thus I lost an esteemed friend, and the business lost the 
 services of a valuable young man, on whom I had placed 
@@ -462,7 +663,12 @@ function interactionOutput(){
     return passages[random];
 }
 
+function governmentOutput(){
+  let passages=[newHampshire, massachusetts, pennsylvania, newYork, delaware, maryland, northCarolina, southCarolina, georgia];
+  let random=Math.floor(Math.random()*9);
+  return passages[random];
+}
 
 
-export default {Passage,surpriseOutput, dangerOutput, interactionOutput};
+export default {Passage,surpriseOutput, dangerOutput, interactionOutput, governmentOutput};
 
